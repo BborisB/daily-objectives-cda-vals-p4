@@ -4,17 +4,17 @@
 
 
 * [ ] Comprendre le métier de développeur, aperçu sur le mindset du dev
-* [ ] Élaboration d’une stratégie pour l’anglais
+* [x] Élaboration d’une stratégie pour l’anglais
 * [ ] Savoir comment aborder la gestion de son temps
-* [ ] Savoir comment poser des questions
+* [x] Savoir comment poser des questions
 * [ ] Savoir comment aborder un problème
 
 #### Environnement de travail
 
 * [ ] Configuration de son environnement de travail
-  * [ ] Mise à jour OS (Linux, Windows, Mac)
-  * [ ] Installation (Discord)
-  * [ ] Installation navigateur (Developper Edition)
+  * [x] Mise à jour OS (Linux, Windows, Mac)
+  * [x] Installation (Discord)
+  * [x] Installation navigateur (Developper Edition)
   * [ ] Création et configuration Mail pro 
   * [ ] Création et configuration Twitter pro 
 
@@ -32,7 +32,7 @@
   * [ ] Comprendre le principe des options dans les commandes
 
 * [ ] Choix de son éditeur, configuration et customisation
-* [ ] Choix / installation d'un terminal (Linux, Mac ou Windows)
+* [x] Choix / installation d'un terminal (Linux, Mac ou Windows)
 
 * [ ] Comprendre l'intérêt des raccourcis clavier
 * [ ] Découverte des raccourcis clavier Linux : 
