@@ -27,12 +27,12 @@ Seulement si le wargame bandit est au niveau 5 minimum :
 - [x] Faire ses premiers pushs des daily-objectives sur son compte Github
 - [x] Faire ses première manipulations de versionning en CLI only (init, push, add, commit, status, pull)
 
-* [ ] Comprendre les termes "local", "origin" et "upstream"
-* [ ] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
-* [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
+* [x] Comprendre les termes "local", "origin" et "upstream"
+* [x] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
+* [x] Faire ses premiers pushs des daily-objectives sur son compte Github
 * [ ] Découvrir les conventions de nommage de son versionning avec la convention Angular :
-  - [ ] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
-  - [ ] https://www.conventionalcommits.org/fr/v1.0.0/
+  - [x] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
+  - [x] https://www.conventionalcommits.org/fr/v1.0.0/
   - [ ] Renommer son dernier commit en respectant cette convention
 * [ ] Comprendre le fonctionnement des branches dans Git :
   - [ ] Lister, changer, créer, supprimer des branches
