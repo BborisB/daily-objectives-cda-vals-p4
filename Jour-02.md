@@ -20,8 +20,8 @@
 
 * [ ] Découverte de Linux :
   * [ ] Savoir ce qu'est Linux
-  * [ ] Savoir ce qu'est une distribution Linux
-  * [ ] Comprendre l'arborescence de Linux
+  * [x] Savoir ce qu'est une distribution Linux
+  * [x] Comprendre l'arborescence de Linux
 
 * [ ] Découverte du Terminal : 
   * [x] Comprendre la différence entre une interface en ligne de commande et une interface graphique
