@@ -3,4 +3,6 @@ titre|tire
 -|-
 titre | titre
 
-```Un morceau de code```
+```
+Un morceau de code
+```
