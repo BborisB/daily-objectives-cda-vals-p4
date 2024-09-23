@@ -7,4 +7,4 @@ titre | titre
 Un morceau de code
 ```
 
-[#a](test)
+[link](a)
