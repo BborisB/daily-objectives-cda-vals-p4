@@ -7,4 +7,4 @@ titre | titre
 Un morceau de code
 ```
 
-![#ff0000] test
+![#ff0000](test)
