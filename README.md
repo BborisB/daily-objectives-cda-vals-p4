@@ -15,7 +15,7 @@ Un morceau de code
 
 <details>
   <summary>
-    <h1>Is there a way to format the text of the dropdown to make it large like a heading?</h1>
+    <h1>Titre h1</h1>
   </summary>
 <details/>
   
