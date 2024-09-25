@@ -17,7 +17,7 @@ Un morceau de code
   <summary>
     <h1>Titre h1</h1>
   </summary>
-<details/>
+</details>
   
 - numero1
 - numero2
