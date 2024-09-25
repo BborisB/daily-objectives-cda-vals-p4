@@ -13,7 +13,6 @@ Un morceau de code
 ` `  
 ` `
 
-<details>
-  - numero1
-  - numero2
-</details>
+<details/>
+- numero1
+- numero2
