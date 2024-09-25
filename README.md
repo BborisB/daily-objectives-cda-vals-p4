@@ -12,11 +12,15 @@ Un morceau de code
 #### sample:
 ` `  
 ` `
+## Contributors
 
-<details>
-  <summary>
-    <h1>Titre h1</h1>
-  </summary>
-</details>
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 [![All Contributors](https://img.shields.io/github/all-contributors/BborisB/daily-objectives-cda-vals-p4?color=ee8449&style=flat-square)](#contributors)
