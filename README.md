@@ -13,7 +13,11 @@ Un morceau de code
 ` `  
 ` `
 
-<details><summary><h1>Is there a way to format the text of the dropdown to make it large like a heading?</h1></summary>
+<details>
+  <summary>
+    <h1>Is there a way to format the text of the dropdown to make it large like a heading?</h1>
+  </summary>
+<details/>
   
 - numero1
 - numero2
