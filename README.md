@@ -13,9 +13,7 @@ Un morceau de code
 ` `  
 ` `
 
-<details>
-  <summary><h3>Titre h3</h3></summary>
-</details>
+<summary><h3>Titre h3</h3></summary>
   
 - numero1
 - numero2
