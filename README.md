@@ -12,3 +12,8 @@ Un morceau de code
 #### sample:
 ` `  
 ` `
+
+<details>
+  - numero1
+  - numero2
+</details>
