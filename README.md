@@ -14,7 +14,7 @@ Un morceau de code
 ` `
 
 <details>
-  <summary <h3>Titre h3</h3>/>
+  <summary><h3>Titre h3</h3></summary>
 </details>
   
 - numero1
