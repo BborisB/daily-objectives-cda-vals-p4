@@ -18,6 +18,5 @@ Un morceau de code
     <h1>Titre h1</h1>
   </summary>
 </details>
-  
-- numero1
-- numero2
+
+[![All Contributors](https://img.shields.io/github/all-contributors/projectOwner/projectName?color=ee8449&style=flat-square)](#contributors)
