@@ -4,12 +4,12 @@
 
 ### Rattrapages
 
-- [ ] Revoir les méthodologies non comprises
+- [x] Revoir les méthodologies non comprises
 - [ ] Finir les dailys précédents
 
 ### SCRUM
 
-- [ ] Savoir réaliser un daily meeting
+- [x] Savoir réaliser un daily meeting
 - [ ] Etudier les rapports SCRUM
   - [ ] Etudier la vélocité
   - [ ] Savoir construire le burndown Chart
