@@ -7,7 +7,7 @@
 - [ ] Comprendre le fonctionnement des références et pointeurs dans Git
 - [x] Comprendre le merge dans Git
 - [x] Comprendre le rebase dans Git (quelle différence avec le merge ?)
-  - [ ] Savoir utiliser le `git rebase`
+  - [x] Savoir utiliser le `git rebase`
 - [ ] Comprendre la différence entre `git reset` et `git revert`
 - [ ] Savoir annuler des `commits` et/ou `merge commits` (déplacer le HEAD, https://ohshitgit.com/)
 - [ ] Comprendre l'utilité et le fonctionnement de `git stash`
