@@ -19,9 +19,9 @@
 - [ ] Découvrir les balises de bases :
   - [x] Titres
   - [ ] Images
-  - [ ] Listes
-  - [ ] Formatage de texte (italique, souligné, gras)
-  - [ ] Code
+  - [x] Listes
+  - [x] Formatage de texte (italique, souligné, gras)
+  - [x] Code
   - [ ] Citations
   - [ ] Tableaux
   - [ ] Liens
