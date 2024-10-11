@@ -18,7 +18,7 @@ Un morceau de code
 
 <style>
 td {
-    text-center: "center";
+    text-center: center;
 }
 </style>
 <table>
