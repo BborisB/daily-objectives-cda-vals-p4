@@ -21,7 +21,7 @@ td {
     text-center: center;
 }
 </style>
-<table>
+<table style="text-center: center">
     <tr>
         <td>Problématiques</td>
         <td>Problèmes</td>
