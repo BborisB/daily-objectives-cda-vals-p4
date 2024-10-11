@@ -17,7 +17,7 @@ Un morceau de code
 [![All Contributors](https://img.shields.io/github/all-contributors/BborisB/daily-objectives-cda-vals-p4?color=ee8449&style=flat-square)](#contributors)
 
 <style>
-table {
+td {
     text-center: "center";
 }
 </style>
