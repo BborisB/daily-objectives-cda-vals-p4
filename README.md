@@ -16,7 +16,7 @@ Un morceau de code
 
 [![All Contributors](https://img.shields.io/github/all-contributors/BborisB/daily-objectives-cda-vals-p4?color=ee8449&style=flat-square)](#contributors)
 
-<table align="center">
+<table text-align="center">
     <tr>
         <td>Problématiques</td>
         <td>Problèmes</td>
