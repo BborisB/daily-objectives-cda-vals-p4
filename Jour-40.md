@@ -6,8 +6,8 @@
 
 - [ ] Découverte de MERISE
   - [ ] Comprendre l'historique et le contexte
-  - [ ] Identifier les différents niveaux de MERISE
-  - [ ] Comprendre le vocabulaire de base
+  - [x] Identifier les différents niveaux de MERISE
+  - [x] Comprendre le vocabulaire de base
 
 - [ ] Les concepts de base du MCD
   - [ ] Les entités
