@@ -10,10 +10,10 @@
   - [x] Comprendre le vocabulaire de base
 
 - [ ] Les concepts de base du MCD
-  - [ ] Les entités
-    - [ ] Savoir définir les entités
-    - [ ] Savoir nommer les entités
-    - [ ] Savoir identifier les occurrences
+  - [x] Les entités
+    - [x] Savoir définir les entités
+    - [x] Savoir nommer les entités
+    - [x] Savoir identifier les occurrences
   
   - [ ] Le dictionnaire de données
     - [ ] Savoir créer un dictionnaire de données
