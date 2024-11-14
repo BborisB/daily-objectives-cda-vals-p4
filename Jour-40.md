@@ -15,11 +15,11 @@
     - [x] Savoir nommer les entités
     - [x] Savoir identifier les occurrences
   
-  - [ ] Le dictionnaire de données
-    - [ ] Savoir créer un dictionnaire de données
-    - [ ] Savoir définir les propriétés
-    - [ ] Savoir typer les propriétés
-    - [ ] Savoir documenter les propriétés
+  - [x] Le dictionnaire de données
+    - [x] Savoir créer un dictionnaire de données
+    - [x] Savoir définir les propriétés
+    - [x] Savoir typer les propriétés
+    - [x] Savoir documenter les propriétés
   
   - [ ] Les associations
     - [ ] Savoir définir les associations
