@@ -4,10 +4,10 @@
 
 ### MERISE - Les cardinalités et les contraintes
 
-- [ ] Les cardinalités
-  - [ ] Savoir lire les cardinalités
-  - [ ] Savoir écrire les cardinalités
-  - [ ] Savoir valider les cardinalités
+- [x] Les cardinalités
+  - [x] Savoir lire les cardinalités
+  - [x] Savoir écrire les cardinalités
+  - [x] Savoir valider les cardinalités
 
 - [ ] Les différents types de contraintes
   - [ ] Savoir définir une contrainte d'intégrité
