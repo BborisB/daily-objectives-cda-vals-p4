@@ -21,10 +21,10 @@
     - [x] Savoir typer les propriétés
     - [x] Savoir documenter les propriétés
   
-  - [ ] Les associations
-    - [ ] Savoir définir les associations
-    - [ ] Savoir nommer les associations
-    - [ ] Savoir identifier les cardinalités
+  - [x] Les associations
+    - [x] Savoir définir les associations
+    - [x] Savoir nommer les associations
+    - [x] Savoir identifier les cardinalités
 
 - [ ] Les règles de gestion
   - [ ] Savoir extraire les règles d'un cahier des charges
