@@ -1,6 +1,6 @@
 # Merise
 
-L'objectif de ce document est de permettre une compréhension plus facile de Merise.
+L'objectif de ce document est de permettre une compréhension plus facile de Merise. C'est surtout une prise de note en suivant l'odre des dailies.
 
 ## Niveaux dans Merise
 
@@ -32,3 +32,10 @@ L'objectif de ce document est de permettre une compréhension plus facile de Mer
   </tr>
 </tbody>
 </table>
+
+## Dépendaces fonctionnelles
+
+- dépendance multi-valuée : information prenant plus d'une valeur dans la table
+- dépendance élémentaire : information dépendant uniquement de la clé primaire d'une table
+- dépendance transitive : information dépendant d'une information non clé d'une table
+
