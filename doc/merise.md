@@ -39,3 +39,8 @@ L'objectif de ce document est de permettre une compréhension plus facile de Mer
 - dépendance élémentaire : information dépendant uniquement de la clé primaire d'une table
 - dépendance transitive : information dépendant d'une information non clé d'une table
 
+## Formes normales
+
+- Première forme normale (1FN) : élimination des dépendaces multi-valuées
+- Deuxième forme normale (2FN) : élimination des dépendances non élémentaires
+- Troisième forme normale (3FN) : élimination des dépendances transitives
