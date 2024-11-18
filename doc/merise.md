@@ -42,5 +42,5 @@ L'objectif de ce document est de permettre une compréhension plus facile de Mer
 ## Formes normales
 
 - Première forme normale (1FN) : élimination des dépendaces multi-valuées
-- Deuxième forme normale (2FN) : élimination des dépendances non élémentaires
-- Troisième forme normale (3FN) : élimination des dépendances transitives
+- Deuxième forme normale (2FN) : 1FN + élimination des dépendances non élémentaires
+- Troisième forme normale (3FN) : 2FN + élimination des dépendances transitives
