@@ -13,10 +13,10 @@
   - [x] Comprendre la 2ème forme normale (2FN)
   - [x] Comprendre la 3ème forme normale (3FN)
 
-- [ ] Les dépendances fonctionnelles
-  - [ ] Savoir identifier les DF élémentaires
-  - [ ] Savoir identifier les DF composées
-  - [ ] Savoir identifier les DF transitives
+- [x] Les dépendances fonctionnelles
+  - [x] Savoir identifier les DF élémentaires
+  - [x] Savoir identifier les DF composées
+  - [x] Savoir identifier les DF transitives
 
 - [ ] Le graphe des dépendances
   - [ ] Savoir construire un graphe des dépendances
