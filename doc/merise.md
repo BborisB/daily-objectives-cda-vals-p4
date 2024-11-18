@@ -33,7 +33,7 @@ L'objectif de ce document est de permettre une compréhension plus facile de Mer
 </tbody>
 </table>
 
-## Dépendaces fonctionnelles
+## Dépendances fonctionnelles
 
 - dépendance multi-valuée : information prenant plus d'une valeur dans la table
 - dépendance élémentaire : information dépendant uniquement de la clé primaire d'une table
