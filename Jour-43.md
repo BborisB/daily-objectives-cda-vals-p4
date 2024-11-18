@@ -8,10 +8,10 @@
   - [x] Comprendre l'importance de la normalisation
   - [x] Savoir identifier les anomalies de redondance
 
-- [ ] Les formes normales
-  - [ ] Comprendre la 1ère forme normale (1FN)
-  - [ ] Comprendre la 2ème forme normale (2FN)
-  - [ ] Comprendre la 3ème forme normale (3FN)
+- [x] Les formes normales
+  - [x] Comprendre la 1ère forme normale (1FN)
+  - [x] Comprendre la 2ème forme normale (2FN)
+  - [x] Comprendre la 3ème forme normale (3FN)
 
 - [ ] Les dépendances fonctionnelles
   - [ ] Savoir identifier les DF élémentaires
