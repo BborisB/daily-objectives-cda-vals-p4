@@ -4,9 +4,9 @@
 
 ### MERISE - Normalisation et dépendances fonctionnelles
 
-- [ ] Introduction à la normalisation
-  - [ ] Comprendre l'importance de la normalisation
-  - [ ] Savoir identifier les anomalies de redondance
+- [x] Introduction à la normalisation
+  - [x] Comprendre l'importance de la normalisation
+  - [x] Savoir identifier les anomalies de redondance
 
 - [ ] Les formes normales
   - [ ] Comprendre la 1ère forme normale (1FN)
