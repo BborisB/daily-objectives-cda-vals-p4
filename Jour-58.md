@@ -4,10 +4,10 @@
 
 ### Introduction à Java et à la POO
 
-- [ ] Découvrir l'environnement de développement Java
-  - [ ] Installation du JDK et configuration de l'IDE (Eclipse, IntelliJ, etc.)
-  - [ ] Premier programme "Hello World"
-  - [ ] Comprendre la compilation et l'exécution en Java
+- [x] Découvrir l'environnement de développement Java
+  - [x] Installation du JDK et configuration de l'IDE (Eclipse, IntelliJ, etc.)
+  - [x] Premier programme "Hello World"
+  - [x] Comprendre la compilation et l'exécution en Java
 
 - [ ] Comprendre les concepts fondamentaux de la POO en Java
   - [ ] Classes et Objets
