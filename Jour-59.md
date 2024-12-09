@@ -8,9 +8,9 @@
   - [x] Fonctionnement du mode parent/enfant
   - [x] Utilisation du mot clé super
   - [x] Fonctionnalités étendues entre un parent et un enfant
-- [ ] Analyse du concept de polymorphisme
-  - [ ] Méthode commune
-  - [ ] Surcharge
+- [x] Analyse du concept de polymorphisme
+  - [x] Méthode commune
+  - [x] Surcharge
 - [ ] Apprentissage des relations possibles entre les classes
   - [ ] Association
   - [ ] Agrégation
