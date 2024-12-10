@@ -4,10 +4,10 @@
 
 ### Programmation Orientée Objet - Abstraction et erreurs
 
-- [ ] Découverte de l'Abstraction
-  - [ ] Bilan sur l'héritage
-  - [ ] Notion de classes abstraites
-  - [ ] Notion d'interface
+- [x] Découverte de l'Abstraction
+  - [x] Bilan sur l'héritage
+  - [x] Notion de classes abstraites
+  - [x] Notion d'interface
 - [ ] Gestion des erreurs
   - [ ] Utilisation des exceptions
   - [ ] Mot clé finally
