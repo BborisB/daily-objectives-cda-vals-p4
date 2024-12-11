@@ -11,7 +11,7 @@
 - [x] Analyse du concept de polymorphisme
   - [x] Méthode commune
   - [x] Surcharge
-- [ ] Apprentissage des relations possibles entre les classes
-  - [ ] Association
-  - [ ] Agrégation
-  - [ ] Composition
+- [x] Apprentissage des relations possibles entre les classes
+  - [x] Association
+  - [x] Agrégation
+  - [x] Composition
