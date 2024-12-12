@@ -10,10 +10,10 @@
   - [x] Map (HashMap, TreeMap)
   - [x] Utilisation des Generics
 
-- [ ] Gérer les exceptions
-  - [ ] Utilisation de try-catch-finally
-  - [ ] Propagation des exceptions avec throws
-  - [ ] Création d'exceptions personnalisées
+- [x] Gérer les exceptions
+  - [x] Utilisation de try-catch-finally
+  - [x] Propagation des exceptions avec throws
+  - [x] Création d'exceptions personnalisées
 
 - [ ] Exercices pratiques
   - [ ] Manipuler une liste d'objets (ajouter, supprimer, trier)
