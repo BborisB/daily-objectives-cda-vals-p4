@@ -6,7 +6,7 @@
 
 - [ ] Découverte de l'UML
   - [ ] Comprendre la signification de l'UML
-  - [ ] Comprendre les origines de l'UML. Pour a-t-il été créé ? (pour quels besoins)
+  - [ ] Comprendre les origines de l'UML. Pourquoi a-t-il été créé ? (pour quels besoins)
   - [ ] Quels sont les objectifs d'utiliser UML ?
   - [ ] Comparaison avec la méthode MERISE ?
   - [ ] Avantages / Inconvénients
