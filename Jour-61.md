@@ -4,11 +4,11 @@
 
 ### Java - Collections et Gestion des Exceptions
 
-- [ ] Découvrir les Collections Java
-  - [ ] List (ArrayList, LinkedList)
-  - [ ] Set (HashSet, TreeSet)
-  - [ ] Map (HashMap, TreeMap)
-  - [ ] Utilisation des Generics
+- [x] Découvrir les Collections Java
+  - [x] List (ArrayList, LinkedList)
+  - [x] Set (HashSet, TreeSet)
+  - [x] Map (HashMap, TreeMap)
+  - [x] Utilisation des Generics
 
 - [ ] Gérer les exceptions
   - [ ] Utilisation de try-catch-finally
