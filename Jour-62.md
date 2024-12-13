@@ -17,9 +17,9 @@
   - [x] Comprendre l'intérêt de chacun des diagrammes
   - [x] Etudier les interactions existantes entre chacun des Diagrammes
 
-- [ ] Découverte des outils
-  - [ ] Trouver des outils type clients lourds
-  - [ ] Trouver des outils cloud
+- [x] Découverte des outils
+  - [x] Trouver des outils type clients lourds
+  - [x] Trouver des outils cloud
   
 - [ ] Initiation au diagramme de cas d'utilisation
   - [ ] Comprendre les objectifs (d'un point de vue client / d'un point de vue développeur)
