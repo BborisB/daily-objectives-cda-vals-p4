@@ -11,11 +11,11 @@
   - [x] Comparaison avec la méthode MERISE ?
   - [x] Avantages / Inconvénients
 
-- [ ] Découverte des Diagrammes
-  - [ ] Lister les types de diagrammes existants
-  - [ ] Lister les diagrammes existants
-  - [ ] Comprendre l'intérêt de chacun des diagrammes
-  - [ ] Etudier les interactions existantes entre chacun des Diagrammes
+- [x] Découverte des Diagrammes
+  - [x] Lister les types de diagrammes existants
+  - [x] Lister les diagrammes existants
+  - [x] Comprendre l'intérêt de chacun des diagrammes
+  - [x] Etudier les interactions existantes entre chacun des Diagrammes
 
 - [ ] Découverte des outils
   - [ ] Trouver des outils type clients lourds
