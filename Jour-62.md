@@ -32,4 +32,4 @@
   
 - [ ] Cas pratique
   - [ ] Réaliser une carte mentale des diagrammes
-  - [ ] Réaliser le diagramme de cas d'utilisation d'un DAB
+  - [x] Réaliser le diagramme de cas d'utilisation d'un DAB
