@@ -4,12 +4,12 @@
 
 ### UML - Découverte et diagramme de cas d'utilisation
 
-- [ ] Découverte de l'UML
-  - [ ] Comprendre la signification de l'UML
-  - [ ] Comprendre les origines de l'UML. Pourquoi a-t-il été créé ? (pour quels besoins)
-  - [ ] Quels sont les objectifs d'utiliser UML ?
-  - [ ] Comparaison avec la méthode MERISE ?
-  - [ ] Avantages / Inconvénients
+- [x] Découverte de l'UML
+  - [x] Comprendre la signification de l'UML
+  - [x] Comprendre les origines de l'UML. Pourquoi a-t-il été créé ? (pour quels besoins)
+  - [x] Quels sont les objectifs d'utiliser UML ?
+  - [x] Comparaison avec la méthode MERISE ?
+  - [x] Avantages / Inconvénients
 
 - [ ] Découverte des Diagrammes
   - [ ] Lister les types de diagrammes existants
