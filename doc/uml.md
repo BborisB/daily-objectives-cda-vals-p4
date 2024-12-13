@@ -13,3 +13,20 @@ L'UML vise à simplifier, structurer et clarifier la conception de logiciels com
 
 Bien que ces deux méthodes interviennent lors de la conception, il existe des différences, notamment dans leur utilisation. Merise est plus adapté pour la conception de base de données, tandis que l'UML permet la conception de l'application (le code source).
 L'UML pourra venir completer Merise, puisque Merise ne présente pas toutes classes présentes dans le code.
+
+## Liste des diagrammes UML
+
+1. Diagramme de classe
+2. Diagramme des composants
+3. Diagramme de déploiement
+4. Diagramme d’objets
+5. Diagramme de paquetage
+6. Diagramme de profil
+7. Diagramme de structure composite
+8. Diagramme de cas d’utilisation
+9. Diagramme d’activité
+10. Diagramme d’état
+11. Diagramme de séquence
+12. Diagramme de communication
+13. Diagramme de présentation des interactions
+14. Diagramme de temps
