@@ -30,3 +30,12 @@ L'UML pourra venir completer Merise, puisque Merise ne présente pas toutes clas
 12. Diagramme de communication
 13. Diagramme de présentation des interactions
 14. Diagramme de temps
+
+## Quelques outils
+
+**Outils clients**
+- StarUML
+
+**Outils cloud**
+- Lucidchart
+- Gitmind
