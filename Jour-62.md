@@ -21,14 +21,14 @@
   - [x] Trouver des outils type clients lourds
   - [x] Trouver des outils cloud
   
-- [ ] Initiation au diagramme de cas d'utilisation
-  - [ ] Comprendre les objectifs (d'un point de vue client / d'un point de vue développeur)
-  - [ ] Comment représenter un système d'information complet
-  - [ ] Etudier les concepts clés du diagramme de cas d'utilisation
-    - [ ]  les acteurs
-	- [ ] les cas d'utilisation
-	- [ ] le système
-  - [ ] Comprendre le lien entre les User Stories et les cas d'utilisation
+- [x] Initiation au diagramme de cas d'utilisation
+  - [x] Comprendre les objectifs (d'un point de vue client / d'un point de vue développeur)
+  - [x] Comment représenter un système d'information complet
+  - [x] Etudier les concepts clés du diagramme de cas d'utilisation
+    - [x]  les acteurs
+	- [x] les cas d'utilisation
+	- [x] le système
+  - [x] Comprendre le lien entre les User Stories et les cas d'utilisation
   
 - [ ] Cas pratique
   - [ ] Réaliser une carte mentale des diagrammes
