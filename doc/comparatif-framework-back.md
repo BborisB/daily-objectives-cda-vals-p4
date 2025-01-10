@@ -1,8 +1,14 @@
 # Analyse comparative des frameworks back-end
 
-## Fastify
-
-### Performances
-
-Le framework se vante d'être très rapide, et beaucoup d'utilisateurs disent de même.
-Il est très souvent comparé à Express, qui est vraisemblablement plus lent. Fastify supporte async/await, ce qui à l'air de booster les performances contrairement à Express qui ne le supporte toujours pas
+| Critères (Score Max: 130)            | Express  | NestJS   | NestJS-Fastify | Fastify    | Koa      | AdonisJS |
+| ------------------------------------ | -------- | -------- | -------------- | ---------- | -------- | -------- |
+| **Performance (x2)**                 | ⭐⭐     | ⭐⭐     | ⭐⭐⭐⭐       | ⭐⭐⭐⭐⭐ | ⭐⭐⭐   | ⭐⭐⭐   |
+| **Sécurité (x1.5)**                  | ⭐⭐     | ⭐⭐⭐⭐ | ⭐⭐⭐⭐       | ⭐⭐⭐     | ⭐⭐     | ⭐⭐⭐⭐ |
+| **DX - Developer Experience (x1.5)** | ⭐⭐⭐⭐ | ⭐⭐⭐   | ⭐⭐⭐         | ⭐⭐⭐⭐   | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| **Coût de développement (x1.5)**     | ⭐⭐⭐   | ⭐⭐     | ⭐⭐           | ⭐⭐⭐⭐   | ⭐⭐⭐   | ⭐⭐⭐⭐ |
+| **Maturité écosystème**              | ⭐⭐     | ⭐⭐⭐⭐ | ⭐⭐⭐⭐       | ⭐⭐⭐⭐   | ⭐⭐     | ⭐⭐⭐   |
+| **Tests et Qualité (x1.5)**          |          |          |                |            |          |          |
+| **Documentation**                    | ⭐⭐⭐   | ⭐⭐⭐⭐ |                | ⭐⭐⭐     | ⭐⭐     | ⭐⭐⭐⭐ |
+| **Support communauté**               | ⭐⭐⭐   | ⭐⭐⭐⭐ |                | ⭐⭐⭐⭐   | ⭐⭐     | ⭐⭐     |
+| **Extensibilité**                    |          |          |                |            |          |          |
+| **Typologie des projets**            |          |          |                |            |          |          |
